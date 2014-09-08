@@ -6,7 +6,7 @@
     /*
     Plugin Name: POWr Poll
     Plugin URI: http://www.powr.io
-    Description: Engage your users with a fully customizable Poll. Add the widget to your theme, or create a Poll on ANY page or post by using the shortcode [powr-poll]. Then, simply visit your site and click the settings icon to customize your Poll right in the page. Many more plugins & tutorials at POWr.io.
+    Description: Get to know your users with a customized Poll! Add the widget to your theme, or create a Poll on ANY page or post by using the shortcode [powr-poll]. Then, simply visit your site and click the settings icon to customize your Poll right in the page. Many more plugins & tutorials at POWr.io.
     Author: POWr.io
     Version: 1.0
     Author URI: http://www.powr.io
