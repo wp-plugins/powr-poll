@@ -23,7 +23,7 @@ First, download, install, and activate POWr Poll. Then drop the widget anywhere 
 = <a href='http://www.powr.io/tutorials/how-to-add-poll-plugin-to-your-wordpress-site'>2 MINUTE INSTALL</a> =
 <br>
 = Free Features =
-* Unlimited inputs for text, dropdowns, checkboxes, and more.
+* Add form inputs for text, dropdowns, checkboxes, email, and more.
 * Choose from expert-designed templates, or take control with custom fonts, colors, backgrounds, and more.
 * Automatically receive email notifications and display custom “thank you” messages when Polls are submitted. 
 * Automatically store responses for analysis and export.
@@ -38,6 +38,7 @@ First, download, install, and activate POWr Poll. Then drop the widget anywhere 
 * Enable plugin analytics to measure visitors and page views
 * Receive premium POWr support
 * Support the development of other great plugins
+
 
 
 == Installation ==
