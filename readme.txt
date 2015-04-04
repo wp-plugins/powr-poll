@@ -12,7 +12,7 @@ License URI: http://www.gnu.org/licenses/gpl-2.0.html
 Learn more about your users with a custom poll!
 
 == Description ==
-Learn more about your users with a custom poll!
+[youtube https://youtu.be/LlVq_1IozPw] Learn more about your users with a custom poll!
 <br>
 <br>
 POWr Poll is a free cloud-based plugin you can edit in your live web page.  Create a POWr account to access the entire <a href='https://www.powr.io/plugins'>plugin library</a>.
@@ -23,7 +23,8 @@ First, download, install, and activate POWr Poll. Then drop the widget anywhere 
 = <a href='http://www.powr.io/tutorials/how-to-add-poll-plugin-to-your-wordpress-site'>2 MINUTE INSTALL</a> =
 <br>
 = Free Features =
-* Add form inputs for text, dropdowns, checkboxes, email, and more.
+* Accept payments through PayPal.
+* Easy inputs for text, dropdowns, checkboxes, email, date, and more.
 * Choose from expert-designed templates, or take control with custom fonts, colors, backgrounds, and more.
 * Automatically receive email notifications and display custom “thank you” messages when Polls are submitted. 
 * Automatically store responses for analysis and export.
@@ -33,8 +34,9 @@ First, download, install, and activate POWr Poll. Then drop the widget anywhere 
 <br>
 = Upgrade ($2.99)/mo and: =
 * Eliminate all POWr logos and watermarks
-* Multiple Recipients - automatically send form responses to multiple email addresses.
-* After Submission - choose to clear form, lock form, hide form, or redirect to a new page after user submission.
+* Automatically send form responses to multiple email addresses.
+* Choose to clear form, lock form, hide form, or redirect to a new page after user submission.
+* Allow users to upload images, documents, audio, and more.
 * Enable plugin analytics to measure visitors and page views
 * Receive premium POWr support
 * Support the development of other great plugins
