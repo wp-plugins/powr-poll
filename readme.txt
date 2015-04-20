@@ -2,7 +2,7 @@
 ===POWr Poll===
 Contributors: powr
 Donate link: http://powr.io/
-Tags: Poll, create poll, custom poll, free poll, poll widget, poll plugin, poll daddy, easy polls, mobile responsive, analytics dashboard, dynamic, html poll, poll creator, quiz, quizzes, CAPTCHA, spam, analytics, data, database, feedback, customer satisfaction survey, online quiz, sales lead form, online poll, support request
+Tags: Poll, paypal, subscription, payments, create poll, custom poll, free poll, poll widget, poll plugin, poll daddy, easy polls, mobile responsive, analytics dashboard, dynamic, html poll, poll creator, quiz, quizzes, CAPTCHA, spam, analytics, data, database, feedback, customer satisfaction survey, online quiz, sales lead form, online poll, support request
 Requires at least: 3.0
 Tested up to: 4.1
 Stable tag: 1.4
@@ -23,11 +23,12 @@ First, download, install, and activate POWr Poll. Then drop the widget anywhere 
 = <a href='http://www.powr.io/tutorials/how-to-add-poll-plugin-to-your-wordpress-site'>2 MINUTE INSTALL</a> =
 <br>
 = Free Features =
-* Accept payments through PayPal.
+* Accept payments and donations through PayPal.
+* Create recurring payments for memberships and subscriptions.
 * Easy inputs for text, dropdowns, checkboxes, email, date, and more.
 * Choose from expert-designed templates, or take control with custom fonts, colors, backgrounds, and more.
-* Automatically receive email notifications and display custom “thank you” messages when Polls are submitted. 
-* Automatically store responses for analysis and export.
+* Automatically receive email notifications and store responses for analysis and export.  
+* Display custom “thank you” messages when forms are submitted.
 * Choose between optional or required input fields. 
 * Built-in support for text in any language.
 * Mobile responsive design looks great on any device.  
