@@ -4,7 +4,7 @@ Contributors: powr
 Donate link: http://powr.io/
 Tags: Poll, paypal, subscription, payments, create poll, custom poll, free poll, poll widget, poll plugin, poll daddy, easy polls, mobile responsive, analytics dashboard, dynamic, html poll, poll creator, quiz, quizzes, CAPTCHA, spam, analytics, data, database, feedback, customer satisfaction survey, online quiz, sales lead form, online poll, support request
 Requires at least: 3.0
-Tested up to: 4.1
+Tested up to: 4.2
 Stable tag: 1.4
 License: GPLv2 or later
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
@@ -33,6 +33,7 @@ First, download, install, and activate POWr Poll. Then drop the widget anywhere 
 * Built-in support for text in any language.
 * Mobile responsive design looks great on any device.  
 <br>
+
 = Upgrade ($2.99)/mo and: =
 * Eliminate all POWr logos and watermarks
 * Automatically send form responses to multiple email addresses.
